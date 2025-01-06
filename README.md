@@ -11,9 +11,9 @@ based on their performance in specific games. The system also supports features 
 This solution provides a robust foundation for managing competitive gaming platforms or tournaments efficiently.
 
 ## Key Features:
-1.Dynamic Player Rankings:Automatically calculates and updates player rankings based on their total scores for specific games, ensuring real-time leaderboard accuracy.
-2.Comprehensive Match and Score Management:Tracks individual match results, player scores, and overall performance across multiple games, providing detailed insights into player statistics.
-3.Database Integrity and Cascading Updates:Maintains referential integrity with cascading deletions and constraints, ensuring consistent data across tables like matches, scores, and rankings.
+Dynamic Player Rankings:Automatically calculates and updates player rankings based on their total scores for specific games, ensuring real-time leaderboard accuracy.
+Comprehensive Match and Score Management:Tracks individual match results, player scores, and overall performance across multiple games, providing detailed insights into player statistics.
+Database Integrity and Cascading Updates:Maintains referential integrity with cascading deletions and constraints, ensuring consistent data across tables like matches, scores, and rankings.
 
 ## Objective:
 The objectives of this project are to efficiently manage players, games, scores, and match data in a centralized system, and to ensure accurate calculation and dynamic updates of player rankings 
