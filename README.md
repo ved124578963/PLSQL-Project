@@ -90,7 +90,7 @@ Rankings Table
 |     2     |    2    |     0       |   2  |   04-Jan-25  |
 -----------------------------------------------------------
 
-# Conclusion:
+## Conclusion:
 In conclusion, the Gaming Leaderboard System provides an efficient way to manage players, games, scores, and rankings in a centralized database. It ensures accurate and dynamic ranking updates based on 
 player performance, promoting fair competition and transparency. With its robust structure and integrity, the system is well-suited for managing competitive gaming platforms effectively.
 
