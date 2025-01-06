@@ -1,28 +1,28 @@
 # Gaming LeaderBoard Management System-PLSQL
 
-##Project Created By:
+## Project Created By:
 Sabban Vedant Prakash student of Amrutwahini College of Engineering from Computer Engineering Department
 (under Zensar SQL and Python Training)
 
-##Project Description:
+## Project Description:
 This project is a Gaming Leaderboard Management System designed to track and manage player scores, rankings, and match results across multiple games. The system comprises six interconnected tables: 
 Players, Games, Scores, Matches, Match_Scores, and Rankings. It allows administrators to store player and game details, record match results, calculate total scores, and dynamically update player rankings
 based on their performance in specific games. The system also supports features like ranking updates using total scores, historical tracking with timestamps, and cascading deletions to maintain database integrity. 
 This solution provides a robust foundation for managing competitive gaming platforms or tournaments efficiently.
 
-##Key Features:
+## Key Features:
 1.Dynamic Player Rankings:Automatically calculates and updates player rankings based on their total scores for specific games, ensuring real-time leaderboard accuracy.
 2.Comprehensive Match and Score Management:Tracks individual match results, player scores, and overall performance across multiple games, providing detailed insights into player statistics.
 3.Database Integrity and Cascading Updates:Maintains referential integrity with cascading deletions and constraints, ensuring consistent data across tables like matches, scores, and rankings.
 
-##Objective:
+## Objective:
 The objectives of this project are to efficiently manage players, games, scores, and match data in a centralized system, and to ensure accurate calculation and dynamic updates of player rankings 
 for fair competition and transparent performance tracking.
 
-##Technologies Used:
+## Technologies Used:
 PL/SQL (Oracle Database) SQL(for queries , stored procedure)
 
-##Output:
+## Output:
 
 Player Table
 ----------------------------------------
@@ -90,9 +90,9 @@ Rankings Table
 |     2     |    2    |     0       |   2  |   04-Jan-25  |
 -----------------------------------------------------------
 
-#Conclusion:
+# Conclusion:
 In conclusion, the Gaming Leaderboard System provides an efficient way to manage players, games, scores, and rankings in a centralized database. It ensures accurate and dynamic ranking updates based on 
 player performance, promoting fair competition and transparency. With its robust structure and integrity, the system is well-suited for managing competitive gaming platforms effectively.
 
-##Guidance:
+## Guidance:
 Project created under the guidance of Sir Anirudh Gaikwad.
